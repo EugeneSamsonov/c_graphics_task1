@@ -1,3 +1,5 @@
+# Samsonov_EE
+
 # c_graphics_task1
 
 1. create an empty public github repo 
